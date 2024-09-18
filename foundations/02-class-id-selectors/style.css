@@ -1,0 +1,19 @@
+.odd-numbered {
+    background-color: #FA4166;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secElement {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.odd-numbered.addition {
+    font-size: 24px;
+}
+
+#forthElement {
+    background-color: #00FF99;
+    font-size: 24px;
+    font-weight: bold;
+}
