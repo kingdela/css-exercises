@@ -29,13 +29,13 @@ body {
   font-size: 20px;
 }
 
-.childb {
+.child.text {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
 
-body .text div {
+body .text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
